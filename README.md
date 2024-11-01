@@ -1,6 +1,6 @@
 # LargeScaleModelling
 ## Description
-Ce projet, réalisé dans le cadre du cours "Large-Scale Models and Simulation Methods" (Printemps 2024), vise à simuler le transport dans une ville française en utilisant une approche basée sur les agents. Bien que l'objectif de cette simulation ne soit pas de fournir des résultats exacts, elle sert à démontrer l'application des outils de simulation et des méthodes d'analyse sur les données de transport.
+Ce projet, vise à simuler le transport dans une ville française en utilisant une approche basée sur les agents. L'objectif de cette simulation n'est pas de fournir des résultats exacts, mais sert à démontrer l'application des outils de simulation et des méthodes d'analyse sur les données de transport.
 
 ## Objectifs
 Le projet se compose de plusieurs exercices couvrant différents aspects de l'analyse et de la modélisation des flux de transport :
